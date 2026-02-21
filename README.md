@@ -54,7 +54,4 @@ IOCs Extracted | Domains, IPs, URLs, Hashes, CVEs |
 
 ---
 
-
-git clone https://github.com/yourusername/telegram-cti-dataset-pipeline.git
-cd telegram-cti-dataset-pipeline
 pip install -r requirements.txt
