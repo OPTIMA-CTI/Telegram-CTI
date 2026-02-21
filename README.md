@@ -54,4 +54,4 @@ IOCs Extracted | Domains, IPs, URLs, Hashes, CVEs |
 
 ---
 
-pip install -r requirements.txt
+
